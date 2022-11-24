@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jenaro10/Rubrica-Soporte/static/css/main.c3bb00c0.css",
-    "main.js": "/jenaro10/Rubrica-Soporte/static/js/main.6e4d55fb.js",
-    "static/media/login.jpg": "/jenaro10/Rubrica-Soporte/static/media/login.1c35d587c6d2aa7fee59.jpg",
-    "static/media/tec.jpg": "/jenaro10/Rubrica-Soporte/static/media/tec.7207925dca2a8be849d5.jpg",
-    "index.html": "/jenaro10/Rubrica-Soporte/index.html",
-    "main.c3bb00c0.css.map": "/jenaro10/Rubrica-Soporte/static/css/main.c3bb00c0.css.map",
-    "main.6e4d55fb.js.map": "/jenaro10/Rubrica-Soporte/static/js/main.6e4d55fb.js.map"
+    "main.css": "/Rubrica3corte-Soporte/static/css/main.399f9eb7.css",
+    "main.js": "/Rubrica3corte-Soporte/static/js/main.35c3e687.js",
+    "static/media/login.jpg": "/Rubrica3corte-Soporte/static/media/login.1c35d587c6d2aa7fee59.jpg",
+    "static/media/tec.jpg": "/Rubrica3corte-Soporte/static/media/tec.7207925dca2a8be849d5.jpg",
+    "index.html": "/Rubrica3corte-Soporte/index.html",
+    "main.399f9eb7.css.map": "/Rubrica3corte-Soporte/static/css/main.399f9eb7.css.map",
+    "main.35c3e687.js.map": "/Rubrica3corte-Soporte/static/js/main.35c3e687.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3bb00c0.css",
-    "static/js/main.6e4d55fb.js"
+    "static/css/main.399f9eb7.css",
+    "static/js/main.35c3e687.js"
   ]
 }
