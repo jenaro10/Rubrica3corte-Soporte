@@ -1,0 +1,27 @@
+.div-inicio{
+    height: 88vh;
+    font-family: cursive;
+}
+.imd-div{
+    width: 100%;
+}
+.bc-imagen{
+    background-image: url(../img/tec.jpg);
+    background-size: cover;
+}
+
+.img-login{
+   padding: 5px;
+   margin: auto;
+   height: 30%;
+   width: 30%;
+   
+}
+
+.login{
+    padding: 5px;
+}
+
+
+
+
